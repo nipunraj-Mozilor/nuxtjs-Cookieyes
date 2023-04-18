@@ -14,7 +14,7 @@ export default {
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     script: [
       {
-        src: "https://cdn-cookieyes.com/client_data/XXXXXXXX/script.js",
+        src: "https://cdn-cookieyes.com/client_data/6659b87ee27a8aec1284cdd9/script.js",
         id: "cookieyes",
         type: "text/javascript",
       },
